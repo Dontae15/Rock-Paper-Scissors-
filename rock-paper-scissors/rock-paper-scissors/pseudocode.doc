@@ -1,0 +1,7 @@
+* Create a computers choice function.
+* Add a math.random and math.floor property inside of the computers choice function that 
+generates a random number between 1 and 3. 
+* Below the math.random property inside of the computers choice function will be conditional 
+statements that are dependant on the value of the random number. 
+For example, if (randnum = 1) {
+    console.log('paper') }
